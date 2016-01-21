@@ -1,4 +1,4 @@
-var { test } = require('tap')
+var test = require('tap').test
 var cfups = require('../index')
 var config = require('./cf-services')
 
