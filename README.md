@@ -1,5 +1,7 @@
 # cfups-get
 
+[![Build Status](https://travis-ci.org/twilson63/cfups.svg?branch=master)](https://travis-ci.org/twilson63/cfups)
+
 Cloud Foundry user-provided service get credentials
 
 This module simply parses the cloud foundry VCAP_SERVICES structure to
