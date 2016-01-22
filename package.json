@@ -1,6 +1,6 @@
 {
   "name": "cfups",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "cfups - GET Cloud Foundry User Provided Services Credentials",
   "main": "index.js",
   "scripts": {
