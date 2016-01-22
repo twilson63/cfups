@@ -4,12 +4,14 @@
   "description": "cfups - GET Cloud Foundry User Provided Services Credentials",
   "main": "index.js",
   "scripts": {
-    "test": "babel-tap test"
+    "test": "babel-tap test",
+    "build": "babel src/index.js -o index.js"
   },
   "keywords": [],
   "author": "Tom",
   "license": "ISC",
   "dependencies": {
+    "babel-core": "^6.4.5",
     "ramda": "^0.19.1"
   },
   "devDependencies": {
